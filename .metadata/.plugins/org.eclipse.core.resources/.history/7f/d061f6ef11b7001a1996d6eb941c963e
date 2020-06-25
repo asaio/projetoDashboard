@@ -1,0 +1,7 @@
+package com.example.demo.produto;
+
+public class Produto {
+	int id;
+	
+	
+}
